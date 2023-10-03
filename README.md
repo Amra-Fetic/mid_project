@@ -1,6 +1,6 @@
 README.md
 
-![SuperStore](https://de.wikipedia.org/wiki/Superstore#/media/Datei:Superstore-NBC.png)
+![SuperStore](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxwKELPFWrLdCrjO8Ysea5-iMyiOrkaItxKg&usqp=CAU)
 
 # **Superstore Sales Analysis Project**
 Welcome to my mid bootcamp project.
