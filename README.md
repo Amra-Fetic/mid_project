@@ -1,6 +1,6 @@
 README.md
 
-![SuperStore](C:\Users\amraf\Desktop\IRONHACK\Week_5\Mid_bootcamp_project\resources\logo.png)
+![SuperStore](resources_logo.png)
 
 # **Superstore Sales Analysis Project**
 Welcome to my mid bootcamp project.
