@@ -1,6 +1,6 @@
 README.md
 
-![SuperStore](resources_logo.png)
+![SuperStore](resources/logo.png)
 
 # **Superstore Sales Analysis Project**
 Welcome to my mid bootcamp project.
