@@ -1,6 +1,6 @@
 README.md
 
-![SuperStore](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxwKELPFWrLdCrjO8Ysea5-iMyiOrkaItxKg&usqp=CAU)
+![SuperStore](C:\Users\amraf\Desktop\IRONHACK\Week_5\Mid_bootcamp_project\resources\logo.png)
 
 # **Superstore Sales Analysis Project**
 Welcome to my mid bootcamp project.
