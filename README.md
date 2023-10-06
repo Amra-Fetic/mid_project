@@ -5,6 +5,11 @@ README.md
 # **Superstore Sales Analysis Project**
 Welcome to my mid bootcamp project.
 
+In the folder data/cleaned you can find a csv file that has been used for this project.
+Jupyter notebook can be found in folder notebooks.
+In resources folder you will find the images that I used for this project. 
+Slides folder contains slides that have been used for presentation.
+
 
 ## *Overview*
 This project analyzes the Superstore dataset to derive insights into various aspects of sales trends, product performance, and customer segments. The goal is to understand patterns, make informed decisions, and explore potential future sales predictions.
@@ -37,5 +42,6 @@ The project includes a predictive analysis to forecast future sales based on his
 
 ### Running the Project
 To run this dataset onto my jupyter notebook I used " pd.read_csv ("data/cleaned/superstore_final_dataset (1).csv", encoding="ISO-8859-1")".
+In file requirements.txt are all libraries used for this project
  
 
